@@ -1,0 +1,14 @@
+#dvPuzzle {
+  width: 490px; height: 490px;
+  border: solid 5px blue;
+  padding: 0px;
+}
+.PicCell {
+ width: 120px; height: 120px;
+ border-top: solid 1px white;
+ border-left: solid 1px white;
+ border-right: solid 1px gray;
+ border-bottom: solid 1px gray;
+ float: left;
+ overflow: hidden;
+}
